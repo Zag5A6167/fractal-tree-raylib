@@ -1,0 +1,5 @@
+
+tree
+*.o
+raylib/
+.vscode/
