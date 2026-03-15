@@ -1,4 +1,2 @@
 hello fractal tree
-
-
-![Fractal Tree Preview](./images/tree_preview.png)
+![Fractal Tree Preview](./screenshots/tree_preview.png)
